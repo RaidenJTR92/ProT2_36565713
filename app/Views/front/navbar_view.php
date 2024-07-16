@@ -1,7 +1,7 @@
 <!--Navegación-->
 <nav class="navbar navbar-expand-lg bg-body-green">
   <div class="container-fluid">
-     <a class="navbar-nav me-auto barra" href="<?php echo base_url('principal')?> ">
+     <a class="navbar-nav me-auto barra" href="http://localhost/ProT2_36565713/">
          <img src="assets/img/Requiemlogo.png" alt="marca" width= "75" height="30" class="img-fluid"/>
         </a>
         
